@@ -1,0 +1,502 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|c:\\users\\asus\\documents\\webbanlaptop\\shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\views\\laptop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\views\\laptop\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\views\\shared\\_layoutadministrator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\views\\shared\\_layoutadministrator.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\manage\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\giohang\\dathang.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\views\\donhang\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\account\\_externalloginslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\account\\_externalloginslistpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\site\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\site\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\giohangcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\ef\\aspnetuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\ef\\aspnetuserrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\models\\mydata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\models\\mydata.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\controllers\\aspnetuserrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\controllers\\aspnetuserrolescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\migrations\\202205011420482_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\migrations\\202205011420482_update.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\migrations\\202204211640321_hotendiachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\migrations\\202204211640321_hotendiachi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\migrations\\202204101524436_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\migrations\\202204101524436_initialmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\views\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\views\\manage\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\app_start\\identityconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\controllers\\managecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\areas\\administrator\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\areas\\administrator\\controllers\\mainpagecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\app_start\\startup.auth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|C:\\Users\\ASUS\\Documents\\WebBanLaptop\\shop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F08A0A65-7562-467A-8C6D-DE63769B23F2}|Shop\\Shop.csproj|solutionrelative:shop\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\Laptop\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Views\\Laptop\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\Laptop\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Views\\Laptop\\Index.cshtml",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T09:04:32.52Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_LayoutAdministrator.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\Shared\\_LayoutAdministrator.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Views\\Shared\\_LayoutAdministrator.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\Shared\\_LayoutAdministrator.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Views\\Shared\\_LayoutAdministrator.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAsBAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T08:43:54.024Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAADMAAAAAAAAAAAAAAEMAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T08:39:37.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Manage\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Manage\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Manage\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Manage\\Index.cshtml",
+              "ViewState": "AgIAAFkAAAAAAAAAAAAAAFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T08:39:04.527Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Web.config",
+              "RelativeDocumentMoniker": "Shop\\Web.config",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Web.config",
+              "RelativeToolTip": "Shop\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAB8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-07-06T05:36:32.561Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAPEAAAAAAAAAAAAWwPgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T06:19:07.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAIwAAAAAAAAAAAASwJMAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T06:16:30.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-20T15:08:58.697Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\DonHang\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Views\\DonHang\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Views\\DonHang\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Views\\DonHang\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwC8AAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T09:01:08.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "buttons.bootstrap4.js",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Data\\plugins\\datatables-buttons\\js\\buttons.bootstrap4.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2025-07-17T09:02:01.282Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "DatHang.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\GioHang\\DatHang.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\GioHang\\DatHang.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\GioHang\\DatHang.cshtml",
+              "RelativeToolTip": "Shop\\Views\\GioHang\\DatHang.cshtml",
+              "ViewState": "AgIAAJEAAAAAAAAAAAAAAKUAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T09:07:11.205Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "_ExternalLoginsListPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Account\\_ExternalLoginsListPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T08:38:52.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Site\\Index.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Site\\Index.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Site\\Index.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Site\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-17T08:36:50.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "202204211640321_hotendiachi.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202204211640321_hotendiachi.cs",
+              "RelativeDocumentMoniker": "Shop\\Migrations\\202204211640321_hotendiachi.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202204211640321_hotendiachi.cs",
+              "RelativeToolTip": "Shop\\Migrations\\202204211640321_hotendiachi.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:45.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GioHangController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\GioHangController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\GioHangController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\GioHangController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\GioHangController.cs",
+              "ViewState": "AgIAACEBAAAAAAAAAAAAAC0BAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:15:00.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "202205011420482_Update.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202205011420482_Update.cs",
+              "RelativeDocumentMoniker": "Shop\\Migrations\\202205011420482_Update.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202205011420482_Update.cs",
+              "RelativeToolTip": "Shop\\Migrations\\202205011420482_Update.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:42.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGgAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T19:48:44.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "Shop\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "Shop\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:47.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AspNetUserRole.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\EF\\AspNetUserRole.cs",
+              "RelativeDocumentMoniker": "Shop\\EF\\AspNetUserRole.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\EF\\AspNetUserRole.cs",
+              "RelativeToolTip": "Shop\\EF\\AspNetUserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:17.734Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AspNetUserRolesController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Controllers\\AspNetUserRolesController.cs",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Controllers\\AspNetUserRolesController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Controllers\\AspNetUserRolesController.cs",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Controllers\\AspNetUserRolesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:07:43.256Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MyData.designer.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Models\\MyData.designer.cs",
+              "RelativeDocumentMoniker": "Shop\\Models\\MyData.designer.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Models\\MyData.designer.cs",
+              "RelativeToolTip": "Shop\\Models\\MyData.designer.cs",
+              "ViewState": "AgIAAPUQAAAAAAAAAAAawPEQAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:08:17.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Manage\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "Shop\\Views\\Manage\\ChangePassword.cshtml",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Views\\Manage\\ChangePassword.cshtml",
+              "RelativeToolTip": "Shop\\Views\\Manage\\ChangePassword.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAA8AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-06T06:19:03.51Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "202204101524436_InitialModel.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202204101524436_InitialModel.cs",
+              "RelativeDocumentMoniker": "Shop\\Migrations\\202204101524436_InitialModel.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Migrations\\202204101524436_InitialModel.cs",
+              "RelativeToolTip": "Shop\\Migrations\\202204101524436_InitialModel.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBIAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:05:49.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "Shop\\App_Start\\RouteConfig.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "Shop\\App_Start\\RouteConfig.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAowBIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:16:13.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:15:53.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ManageController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\ManageController.cs",
+              "RelativeDocumentMoniker": "Shop\\Controllers\\ManageController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Controllers\\ManageController.cs",
+              "RelativeToolTip": "Shop\\Controllers\\ManageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:06:53.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "MainPageController.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Controllers\\MainPageController.cs",
+              "RelativeDocumentMoniker": "Shop\\Areas\\Administrator\\Controllers\\MainPageController.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Areas\\Administrator\\Controllers\\MainPageController.cs",
+              "RelativeToolTip": "Shop\\Areas\\Administrator\\Controllers\\MainPageController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:06:49.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Startup.Auth.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\Startup.Auth.cs",
+              "RelativeDocumentMoniker": "Shop\\App_Start\\Startup.Auth.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\Startup.Auth.cs",
+              "RelativeToolTip": "Shop\\App_Start\\Startup.Auth.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:06:44.768Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "IdentityConfig.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\IdentityConfig.cs",
+              "RelativeDocumentMoniker": "Shop\\App_Start\\IdentityConfig.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\App_Start\\IdentityConfig.cs",
+              "RelativeToolTip": "Shop\\App_Start\\IdentityConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:06:42.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Startup.cs",
+              "RelativeDocumentMoniker": "Shop\\Startup.cs",
+              "ToolTip": "C:\\Users\\ASUS\\Documents\\WebBanLaptop\\Shop\\Startup.cs",
+              "RelativeToolTip": "Shop\\Startup.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:36:30.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
